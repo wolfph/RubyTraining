@@ -13,3 +13,10 @@ friendsnew = Array.new
 friendsnew[0] = "Michael"
 friendsnew[5] = "Tom"
 puts friendsnew
+
+#while loop
+i = 1
+while i <= 5
+  puts i
+ i+= 1
+end
